@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="100%" height="100%">
-	<script type="text/javascript">
-	<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%"><script type="text/javascript"><![CDATA[
 		top.svg = {
                 cursorX : 50,
                 cursorY : 50,
@@ -93,8 +89,4 @@
                     document.getElementById("affichageSVG").appendChild(newText);
                 }
             }
-		]]>
-	</script>
-	<g id="affichageSVG">
-	</g>
-</svg>
+		]]></script></svg>
